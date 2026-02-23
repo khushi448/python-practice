@@ -322,7 +322,8 @@
 #to intialize git in your project
 #git init
 # git add .
-
-
-
+#git commit -m "Initial commit"
+#git branch _M main
+#git remote add origin https://github.com/khushi448/python-practice.git
+#git push -u origin main
 
